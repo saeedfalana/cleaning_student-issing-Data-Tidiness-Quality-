@@ -1,3 +1,5 @@
+# Saeed Falana
+# Ramallah, Palestine
 # cleaning_student-issing-Data-Tidiness-Quality
 
 Cleaning sequence headers (e.g., "### Missing Data" , "#### treatments: Missing records (280 instead of 350)", "##### Define", "##### Code", and "##### Test") are set up for you for all required cleaning operations. Your tasks are to fill in the Define, Code, and Test sequences.
